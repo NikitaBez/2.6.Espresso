@@ -34,4 +34,6 @@ public class MainActivityTest {
                         isDisplayed()));
         textView.check(matches(withText("This is home fragment")));
     }
+
+    
 }
